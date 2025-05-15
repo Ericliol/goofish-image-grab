@@ -1,5 +1,5 @@
 # goofish-image-grab
-download product image from goofish.com
+download product image from [goofish.com]
 
 
 edit url in html_download
